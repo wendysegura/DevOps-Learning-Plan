@@ -1,0 +1,18 @@
+---
+#creating a contact list of users
+- Peter:
+   name: Peter Pan
+   job: Never grow up
+   skills:
+     - can fly
+     - never ages
+- Tiker:
+   name: Tinker Bell
+   job: Create pixy dust
+   skills:
+     - pixy dust
+     - fly
+     - engineer
+---
+
+
